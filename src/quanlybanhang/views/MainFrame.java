@@ -89,7 +89,7 @@ public class MainFrame extends javax.swing.JFrame {
         jToolBar1.setRequestFocusEnabled(false);
 
         jButton1.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/manage.png"))); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/quanlybanhang/resources/images/manage.png"))); // NOI18N
         jButton1.setText("Home");
         jButton1.setToolTipText("");
         jButton1.setFocusable(false);
@@ -101,7 +101,7 @@ public class MainFrame extends javax.swing.JFrame {
         jToolBar1.add(jSeparator1);
 
         jButton2.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/input.png"))); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/quanlybanhang/resources/images/input.png"))); // NOI18N
         jButton2.setText("Nhập Hàng");
         jButton2.setAutoscrolls(true);
         jButton2.setFocusable(false);
@@ -126,7 +126,7 @@ public class MainFrame extends javax.swing.JFrame {
         jToolBar1.add(jSeparator3);
 
         jButton4.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jButton4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/list.png"))); // NOI18N
+        jButton4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/quanlybanhang/resources/images/list.png"))); // NOI18N
         jButton4.setText("In Hóa Đơn");
         jButton4.setFocusable(false);
         jButton4.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
